@@ -1,0 +1,2 @@
+- currently a student at FISAT, Angamaly, Kerala, India.
+- this github profile is exclusively for showcasing my projects.
